@@ -1,7 +1,13 @@
 {
-"Folders": [
+    "Folders": [
 {
-Nombre: "bin"
+   "Nombre": "bin"
+},
+{
+    "Nombre": "Workspace"
+},
+{
+    "Nombre": "Dlls"
 }
-]
+ ]
 }
