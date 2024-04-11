@@ -9,5 +9,16 @@
 {
     "Nombre": "DLLs"
 }
+ ],
+ "VersionOfRoblox": [
+{
+    "version": ""
+}
+ ],
+ "DLLs": [
+    {
+       "Nombre": "Wave.dll",
+       "DownloadLink": "" 
+    }
  ]
 }
