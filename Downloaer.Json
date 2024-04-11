@@ -25,7 +25,7 @@
        "DownloadLink": "https://github.com/TheREBLEX/updater/raw/main/Injector.exe" 
     },
     {
-       "Nombre": ".\\bin\\Syntaxis.exe",
+       "Nombre": ".\\bin\\Syntaxis.xshd",
        "DownloadLink": "https://github.com/TheREBLEX/ReblexDownload/raw/main/bin/Reblex.xshd" 
     }
  ]
