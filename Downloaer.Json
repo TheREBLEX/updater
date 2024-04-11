@@ -17,8 +17,12 @@
  ],
  "DLLs": [
     {
-       "Nombre": "Wave.dll",
-       "DownloadLink": "" 
+       "Nombre": ".\\bin\\Wave.dll",
+       "DownloadLink": "https://github.com/TheREBLEX/updater/raw/main/Wave.dll" 
+    },
+    {
+       "Nombre": ".\\bin\\Injector.exe",
+       "DownloadLink": "https://github.com/TheREBLEX/updater/raw/main/downloader.exe" 
     }
  ]
 }
