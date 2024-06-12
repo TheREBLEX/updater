@@ -19,7 +19,6 @@
     {
        "title": "Wave",
        "Nombre": ".\\DLLs\\Wave.dll",
- 
        "Estado": false,
        "actualizacion": false,
        "Descripcion": "DLl de alto nivel pero esta parcheado",
