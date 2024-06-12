@@ -22,11 +22,11 @@
  
        "Estado": false,
        "actualizacion": false,
-       "Descripcion": "DLl de alto nivel pero esta parcheado"
+       "Descripcion": "DLl de alto nivel pero esta parcheado",
        "DownloadLink": "https://github.com/TheREBLEX/updater/raw/main/Wave.dll" 
     },
     {
-       "title": "Solara"
+       "title": "Solara",
        "Nombre": ".\\DLLs\\Solara.dll",
        "Seleccionada": true,
        "Estado": true,
