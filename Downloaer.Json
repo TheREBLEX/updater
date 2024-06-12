@@ -17,8 +17,14 @@
  ],
  "DLLs": [
     {
+       "title": "Wave",
        "Nombre": ".\\DLLs\\Wave.dll",
        "DownloadLink": "https://github.com/TheREBLEX/updater/raw/main/Wave.dll" 
+    },
+    {
+       "title": "Solara"
+       "Nombre": ".\\DLLs\\Solara.dll",
+       "DownloadLink": "" 
     },
     {
        "Nombre": ".\\DLLs\\Injector.exe",
