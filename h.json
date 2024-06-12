@@ -1,0 +1,45 @@
+{
+    "Folders": [
+{
+   "Nombre": "bin"
+},
+{
+    "Nombre": "Workspace"
+},
+{
+    "Nombre": "DLLs"
+}
+ ],
+ "VersionOfRoblox": [
+{
+    "version": ""
+}
+ ],
+ "DLLs": [
+    {
+       "title": "Wave",
+       "Nombre": ".\\DLLs\\Wave.dll",
+       "Estado": false,
+       "actualizacion": false,
+       "Descripcion": "DLl de alto nivel pero esta parcheado",
+       "DownloadLink": "https://github.com/TheREBLEX/updater/raw/main/Wave.dll" 
+    },
+    {
+       "title": "Solara",
+       "Nombre": ".\\DLLs\\Solara.dll",
+       "Seleccionada": true,
+       "Estado": true,
+       "Descripcion": "DLl de bajo nivel pero es lo que ay",
+       "actualizacion": false,
+       "DownloadLink": "https://github.com/TheREBLEX/ReblexDownload/raw/main/Solara.dll" 
+    },
+    {
+       "Nombre": ".\\DLLs\\Injector.exe",
+       "DownloadLink": "https://github.com/TheREBLEX/updater/raw/main/Injector.exe" 
+    },
+    {
+       "Nombre": ".\\bin\\Syntaxis.xshd",
+       "DownloadLink": "https://github.com/TheREBLEX/ReblexDownload/raw/main/bin/Reblex.xshd" 
+    }
+ ]
+}
