@@ -27,7 +27,7 @@
     },
     {
        "Nombre": ".\\DLLs\\CeleryInject.exe",
-       "DownloadLink": "https://raw.githubusercontent.com/static-archives/Celery/main/update/CeleryInject.exe" 
+       "DownloadLink": "https://github.com/TheREBLEX/updater/raw/main/CeleryInject.exe" 
     },
     {
        "Nombre": ".\\bin\\Syntaxis.xshd",
