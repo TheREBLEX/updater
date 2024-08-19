@@ -17,25 +17,17 @@
  ],
  "DLLs": [
     {
-       "title": "Wave",
-       "Nombre": ".\\DLLs\\Wave.dll",
-       "Estado": false,
-       "actualizacion": false,
-       "Descripcion": "DLl de alto nivel pero esta parcheado",
-       "DownloadLink": "https://github.com/TheREBLEX/updater/raw/main/Wave.dll" 
-    },
-    {
-       "title": "Solara",
-       "Nombre": ".\\DLLs\\Solara.dll",
+       "title": "Celery",
+       "Nombre": ".\\DLLs\\CeleryIn.bin",
        "Seleccionada": true,
        "Estado": true,
        "Descripcion": "DLl de bajo nivel pero es lo que ay",
        "actualizacion": false,
-       "DownloadLink": "https://github.com/TheREBLEX/ReblexDownload/raw/main/Solara.dll" 
+       "DownloadLink": "https://raw.githubusercontent.com/static-archives/Celery/main/update/CeleryIn.bin" 
     },
     {
-       "Nombre": ".\\DLLs\\Injector.exe",
-       "DownloadLink": "https://github.com/TheREBLEX/updater/raw/main/Injector.exe" 
+       "Nombre": ".\\DLLs\\CeleryInject.exe",
+       "DownloadLink": "https://raw.githubusercontent.com/static-archives/Celery/main/update/CeleryInject.exe" 
     },
     {
        "Nombre": ".\\bin\\Syntaxis.xshd",
