@@ -23,7 +23,7 @@
        "Estado": true,
        "Descripcion": "DLl de bajo nivel pero es lo que ay",
        "actualizacion": false,
-       "DownloadLink": "https://raw.githubusercontent.com/static-archives/Celery/main/update/CeleryIn.bin" 
+       "DownloadLink": "https://github.com/TheREBLEX/updater/raw/main/CeleryIn.bin" 
     },
     {
        "Nombre": ".\\DLLs\\CeleryInject.exe",
