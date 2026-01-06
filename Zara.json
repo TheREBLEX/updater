@@ -1,0 +1,28 @@
+
+{
+
+    "DLLs": [
+        {
+         "name": "./DLLs/Velocity.dll"
+        },
+        {
+
+        }
+    ],
+    "Folders": [
+        {
+            "name": "Workspace"
+        }
+        ,
+        {
+            "name": "bin"
+        },
+        {
+            "name": "autoexec"
+        },
+        {
+            "name": "DLLs"
+        }
+    ]
+}
+
