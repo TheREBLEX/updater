@@ -5,9 +5,6 @@
         {
          "name": "VelocityAPI.dll",
          "Download": "https://raw.githubusercontent.com/TheREBLEX/ExploitJSONFiles/refs/heads/main/VelocityAPI.dll"
-        },
-        {
-
         }
     ],
     "Folders": [
@@ -26,6 +23,7 @@
         }
     ]
 }
+
 
 
 
