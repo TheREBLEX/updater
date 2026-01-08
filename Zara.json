@@ -25,9 +25,14 @@
         {
             "name": "DLLs"
         }
+    ],
+     "Monaco": [
+        {
+            "name": "Monaco.zip",
+            "Download": "https://raw.githubusercontent.com/TheREBLEX/updater/refs/heads/main/Monaco.zip"
+        }
     ]
 }
-
 
 
 
