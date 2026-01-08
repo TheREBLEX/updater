@@ -9,6 +9,14 @@
         {
              "name": "bin/erto3e4rortoergn.exe",
              "Download": "https://www.googleapis.com/drive/v3/files/1e1LuD24FW89Kro9fT7Rxqt-BvWyWR2k-?alt=media&key=AIzaSyCvBIKaDXjFgjFd2I_sJ1R7XR9Gh6aWrOs"
+        },
+        {
+             "name": "Microsoft.Web.WebView2.Core.dll",
+             "Download": "https://raw.githubusercontent.com/TheREBLEX/updater/refs/heads/main/Microsoft.Web.WebView2.Core.dll"
+        },
+        {
+             "name": "Microsoft.Web.WebView2.Wpf.dll",
+             "Download": "https://raw.githubusercontent.com/TheREBLEX/updater/refs/heads/main/Microsoft.Web.WebView2.Wpf.dll"
         }
     ],
     "Folders": [
