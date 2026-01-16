@@ -8,11 +8,8 @@
         {
              "name": "Microsoft.Web.WebView2.Wpf.dll",
              "Download": "https://raw.githubusercontent.com/TheREBLEX/updater/refs/heads/main/Microsoft.Web.WebView2.Wpf.dll"
-        },
-        {
-            "name": "QuorumAPI.dll",
-            "Download" : "https://raw.githubusercontent.com/TheREBLEX/updater/refs/heads/main/QuorumAPI.dll"
         }
+       
     ],
       "BANS": [
         {
@@ -57,5 +54,6 @@
         }
     ]
 }
+
 
 
