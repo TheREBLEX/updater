@@ -20,11 +20,11 @@
     ],
       "NecesaryDLLs": [
         {
-         "name": "bin/Decompiler.exe",
+         "name": "DLLs/Decompiler.exe",
          "Download": "https://raw.githubusercontent.com/TheREBLEX/updater/refs/heads/main/Decompiler.exe"
         },
         {
-              "name": "bin/erto3e4rortoergn.exe",
+              "name": "DLLs/erto3e4rortoergn.exe",
               "Download": "https://public.boxcloud.com/d/1/b1!N0P8f3juGX0u6TweaAESH_6pnn91R4YCh-zwMrgeak7FSncs73sfVKAbCaCN0LG1OCSX3pNOaaDmSDnHfqZG7txYSN5MNJC40JxC3Rxc5tcfY94f1c421xPc0CqA3H67xf7EAzyuKXZG8RqSGxH_1r_Qykv2sDmhE7ktamFhBQzB8TJeDs7HamgIDc3dx1I7mdINvXY3IMlTSPg6zaKdKBs99dJ2fhUuBX8Uw4IAYkIc4V46dSwFd7H96AOGzbhOV_zwgC7KcrIYNqsxASQ6k3RFnccNqfTfuzsAyBgUWvMQhO5GrjU9jcyEAhOqwol43cupvBCIpaHRio0I090Ve6C7FpIE7mEL70aC9cboeZn2dr1ZrrH5MbSCknU-5jeC9Uqd5-440wm2UnVKiBDpHtIKxAuTeQ6Hq325OtIFCHEUGa1x3JygYeApbuLd9YpIa8vZzSAm_tYBoEvsD7cXvm0Ng3c9QcXdgxP-NROe3U-gFoimlbcrreSIFAz0zh876MAsI8MNjN_eq7ILTLy4dhdiFQH-hu-5mozTjTC-N8NllXbwiLyV57KVLfEQylnBzawSHPkygGIHLbFgOjjfVv8D7avdeGejLeNNdCDYUmipxXgBilWUMUxR1gCobeLcWKGMQ0ZNPBvnGSqPwZuRNIrI7iUiJ7V1bNpg8G5EvZD7SKJ0ii0T_5YoD6InwT1Awa-Sv-4ZgNkaP07VuIGAIhYrXRy_HBE81JJmxIM-cpJj5IQzDHyzdr4DenLGH86_mc457T67PDzHHPvg5ptOOByLFt8mDIQwwFn3a8dPf2dlDCO60EykcTeqhgXWmP6aGsFvFwMtNuRCkweQvr7Fr_rVnBgvsBTrovAekd_rvGdbqfeHsi5IVs0bCgPo2Sgn9vrg_4JqeAoMiLD9GkGROgoH_VXJBKkfwbTymNTfTjUtG-Hao6WU0zOLj8hwR9uD_6sbklg3AFurWAPD_me3j6frPLNbOLZ4YSi7H3QJNBbr-hTgBIt8TSSvWY8qd7j5jhI8u_QFURL1eGgcbs7hzmX5y7zTsmVwgPpmqIBG8DfxNBQvuQjHDp6moyjXTpjpjw4JimN_4BIopAS2vyyzMc8AbTqe-_rYwV1YQDAIRDX22GRub2uAdklKgjJKar_MLBJ5Q0dn5J65eY0e7l8alwhdLAnC3o7zqUeEalFwviQlBNRdz_HF1klRznhMqV4LZw0qG1Y3DrMyIrfq4-RanUv7pCwR34BwsmHKcC_APdsVHXxrHTjaTdWkooBVp2ASGckcXqGaRZo-cvRJfmR9l70K5Lcqvjh-80B-1CN8jwDkBLxs2KmNox_hBIRX_sHVi6XJas__13EYwiPyZftqmtfKplnLbTfmdBf9z_VYb1Bye5qwoKgNX46FH_iO19MSls3ppWLEfAFUWuOmsdupcHZUMyggJNF68miTHRQCKbJUnTGdLIt4Y1yGQ-CTrRS2t0ZvmaohNVH5OxxsZsQN6OotGwuH34ZBs5q03wTrFyYHuNDo7lqK7KX3cCg./download"
         }
     ],
@@ -54,6 +54,7 @@
         }
     ]
 }
+
 
 
 
