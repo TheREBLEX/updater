@@ -37,6 +37,9 @@
             "name": "bin"
         },
         {
+            "name": "bin/Favorites"
+        },
+        {
             "name": "autoexec"
         },
         {
@@ -54,6 +57,7 @@
         }
     ]
 }
+
 
 
 
