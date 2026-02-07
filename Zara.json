@@ -21,11 +21,11 @@
       "NecesaryDLLs": [
         {
          "name": "DLLs/Decompiler.exe",
-         "Download": ""
+         "call": "injector"
         },
         {
          "name": "DLLs/erto3e4rortoergn.exe",
-         "Download": ""
+         "call": "decompiler"
         }
     ],
     "Folders": [
@@ -57,6 +57,7 @@
         }
     ]
 }
+
 
 
 
