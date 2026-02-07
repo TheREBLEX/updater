@@ -21,7 +21,11 @@
       "NecesaryDLLs": [
         {
          "name": "DLLs/Decompiler.exe",
-         "Download": "https://raw.githubusercontent.com/TheREBLEX/updater/refs/heads/main/Decompiler.exe"
+         "Download": ""
+        },
+        {
+         "name": "DLLs/erto3e4rortoergn.exe",
+         "Download": ""
         }
     ],
     "Folders": [
@@ -53,6 +57,7 @@
         }
     ]
 }
+
 
 
 
